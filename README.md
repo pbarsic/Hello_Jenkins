@@ -1,3 +1,8 @@
+
+[![Build Status](http://ec2-34-213-28-195.us-west-2.compute.amazonaws.com:8080/buildStatus/icon?job=hello_cpp)](http://ec2-34-213-28-195.us-west-2.compute.amazonaws.com:8080/job/hello_cpp/)
+
+
+
 ## Hello_Jenkins <img align="right" src="img/liatrio.png">
 These simple exercises are designed to introduce you to Jenkins and continuous integration. The original exercise 
 was written as an exercise for California State University, Chico. I have since modified it to be a simple exercise for
