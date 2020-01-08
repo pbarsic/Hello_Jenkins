@@ -1,5 +1,5 @@
 
-[![Build Status](http://44.229.143.107/:8080/buildStatus/icon?job=hello_cpp)](http://http://44.229.143.107:8080/job/hello_cpp/)
+[![Build Status](http://44.229.143.107:8080/buildStatus/icon?job=hello_cpp)](http://44.229.143.107:8080/job/hello_cpp/)
 
 
 
