@@ -10,7 +10,7 @@ int main(void) {
   cout << "My name is Inigo Montoya.\n";
   cout << "You killed my father.\n";
   cout << "Prepare to die." << endl;
-  cout << "You have an over-developed sense of vengence.\n";
+  // cout << "You have an over-developed sense of vengence.\n";
 
   return 0;
 }
